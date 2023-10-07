@@ -35,7 +35,7 @@ Execute the program using runserver command.
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - M.D.HARINI(212222230043)</b></caption>
+<caption><b>SLOT TIME TABLE - BOOBESH.P.M(23000342) </b></caption>
 <tr align="center">
 <th bgcolor="red">Day/Time</th>
 <th bgcolor="red">Monday</th>
@@ -124,7 +124,8 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![slot 1](https://github.com/Boobeshkrishna/slot/assets/141472052/7d3489d7-e1ff-4777-8f8d-29b4533bd77a)
+![slot 1](https://github.com/Boobeshkrishna/slot/assets/141472052/553df729-0de1-445a-891f-86810630dc19)
+
 ## HTML VALIDATOR
 
 
