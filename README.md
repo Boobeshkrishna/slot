@@ -124,7 +124,8 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![slot 1](https://github.com/Boobeshkrishna/slot/assets/141472052/553df729-0de1-445a-891f-86810630dc19)
+
+![Output image](<sample/newapp/Static/boobesh output.png>)
 
 ## HTML VALIDATOR
 
